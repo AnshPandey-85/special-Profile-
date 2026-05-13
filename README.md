@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ansh Pandey</h1>
 <h3 align="center">MERN Stack & Java Developer | AI & DevOps Enthusiast</h3>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius:50%" alt="Ansh Pandey Profile Photo"/>
+</p>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Java+%26+DSA+Practitioner;MERN+Stack+Developer;C%2B%2B+%7C+Python+Enthusiast;Exploring+AI+%26+DevOps" alt="Typing SVG" />
@@ -9,16 +14,6 @@
 ---
 
 ## 🏆 GitHub Achievements
-
-<p align="center">
-  <a href="https://github.com/anshpandey96?achievement=pull-shark&tab=achievements">
-    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" title="Pull Shark" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/anshpandey96?achievement=quickdraw&tab=achievements">
-    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80" title="Quickdraw" />
-  </a>
-</p>
 
 | 🏅 Achievement | 📋 Description |
 |---|---|
@@ -38,12 +33,12 @@
 
 ## 🚀 Tech Stack
 
-- 💻 **Languages:** C, C++, Java, Python
-- 🌐 **Frontend:** HTML, CSS, JavaScript, React.js
-- ⚙️ **Backend:** Node.js, Express.js
-- 🗄️ **Database:** MongoDB, MySQL
-- 🛠️ **Tools:** Git, GitHub, VS Code
-- 🔍 **Exploring:** DevOps, AI/ML
+- 💻 **Languages:** C, C++, Java, Python  
+- 🌐 **Frontend:** HTML, CSS, JavaScript, React.js  
+- ⚙️ **Backend:** Node.js, Express.js  
+- 🗄️ **Database:** MongoDB, MySQL  
+- 🛠️ **Tools:** Git, GitHub, VS Code  
+- 🔍 **Exploring:** DevOps, AI/ML  
 
 ---
 
@@ -57,12 +52,6 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshpandey96&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-### 🌱 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshpandey96&theme=tokyo-night&hide_border=true&area=true" alt="Ansh's Contribution Graph" />
 </p>
 
 ---
